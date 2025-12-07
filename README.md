@@ -26,7 +26,7 @@ Look at [CHANGELOG](./CHANGELOG.md) for changes and release notes in between ver
    > If you're on Windows or your distro doesn't have rustup in your package manager use https://rustup.rs/
  - run `rustup update stable` to get the latest toolchain
 
- - Clone Repo `git clone https://github.com/thesillyboi/wretch`
+ - Clone Repo `git clone https://github.com/addy10s/wretch`
  - Run `cargo run --release` to run and build the best version of the project
 
 
@@ -50,7 +50,7 @@ Look at [CHANGELOG](./CHANGELOG.md) for changes and release notes in between ver
    - Instead of doing the above two steps, you can restart your computer.
 
 ## Credits
-All logos were created by Adrian Tennies, if you want your distro added/you think you can do it better, please keep the art style intact(trying to make it look like a neon sign), and put it in a pull request, and modify this to credit yourself for the logo
+All logos were created by Addy Tennies, if you want your distro added/you think you can do it better, please keep the art style intact(trying to make it look like a neon sign), and put it in a pull request, and modify this to credit yourself for the logo
 
 Thanks for checking this out!
-  -Adrian Tennies & Cooper
+  - Addy Tennies & Agust
