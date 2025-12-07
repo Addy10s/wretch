@@ -42,7 +42,7 @@ makepkg -si
 **nix users** you can get the pacakge via nix flakes. 
 1. add the url to your ```flake.nix``` input
 ```nix
-wretch.url = "github:thesillyboi/wretch";
+wretch.url = "github:addy10s/wretch";
 ```
 2. add the pacakge in ```environment.systemPackages```
 ```nix

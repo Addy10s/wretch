@@ -10,7 +10,7 @@ repository = "https://github.com/thesillyboi/wretch"
 homepage = "https://github.com/thesillyboi/wretch"
 readme = "README.md"
 keywords = ["fetch", "system", "info", "cli", "terminal"]
-authors = ["TheSillyBoi <adrian@tennies.us>", "Cooper <cooptheloop8@gmail.com>"]
+authors = ["Addy <adrian@tennies.us>", "August <cooptheloop8@gmail.com>"]
 categories = ["command-line-utilities"]
 
 [dependencies]
