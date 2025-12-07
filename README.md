@@ -53,4 +53,4 @@ Look at [CHANGELOG](./CHANGELOG.md) for changes and release notes in between ver
 All logos were created by Addy Tennies, if you want your distro added/you think you can do it better, please keep the art style intact(trying to make it look like a neon sign), and put it in a pull request, and modify this to credit yourself for the logo
 
 Thanks for checking this out!
-  - Addy Tennies & Agust
+  - Addy Tennies & August
